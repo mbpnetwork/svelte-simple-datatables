@@ -1,0 +1,8 @@
+[34msvelte-simple-datatables:build[0m: cache hit, replaying output [2m11f549811be8360c[0m
+[34msvelte-simple-datatables:build: [0m
+[34msvelte-simple-datatables:build: [0m> svelte-simple-datatables@0.2.3 build /Users/benm/Documents/GitHub/Monorepo/packages/svelte-simple-datatables
+[34msvelte-simple-datatables:build: [0m> rollup -c
+[34msvelte-simple-datatables:build: [0m
+[34msvelte-simple-datatables:build: [0m[36m
+[34msvelte-simple-datatables:build: [0m[1msrc/index.js[22m → [1mdist/index.mjs, dist/index.js[22m...[39m
+[34msvelte-simple-datatables:build: [0m[32mcreated [1mdist/index.mjs, dist/index.js[22m in [1m513ms[22m[39m
